@@ -1,13 +1,12 @@
 
-# Using pandas category dtype for processing pipelines
 
-When processing known data of a reasonable size in a ETL pipeline, often you want to eek out some performance for the reading and transformations. If you have mixed data types (e.g. strings and floats), doing standard operations can be costly given that pandas makes a best-guess at the data type and will often read in particular columns as objects. 
+When processing known data of a reasonable size in a ETL pipeline, often you want to eek out some performance for the reading and transformations. If you have mixed data types (e.g. strings and floats), doing standard operations can be costly given that pandas makes a best-guess at the data type and will often read in particular columns as objects.
 
-Specifying data types when you read in the data has many benefits, and is even necessary for other frameworks such as dask. But when you are working with strings, they can take up alot of memory and are slower to evaluate. 
+Specifying data types when you read in the data has many benefits, and is even necessary for other frameworks such as dask. But when you are working with strings, they can take up alot of memory and are slower to evaluate.
 
 Enter the "category" data type from pandas.
 
-If you know beforehand that the values in a column are categorical, you can specify on read that the dtype of the column should be considered as such. 
+If you know beforehand that the values in a column are categorical, you can specify on read that the dtype of the column should be considered as such.
 
 
 ```python
@@ -76,13 +75,13 @@ The real upside is realized when doing tranformations based on categorical data 
 
     189 µs ± 13.9 µs per loop (mean ± std. dev. of 10 runs, 1000 loops each)
     900 µs ± 151 µs per loop (mean ± std. dev. of 10 runs, 1000 loops each)
-    
+
 
 For the simple boolean operation above, there is a __~80% decrease in runtime__. For complexer functions, this computation savings will be obviously much more significant.
 
 What is the reason for this?
 
-Under the hood, the different values of the categorical feature are encoded into a dictionary, and the actual series is then indexed with the values of the categories. Therefore operations on categorical variables are similar to operations with integers -- or even faster since they are encoded as `int8` instead of the default `int32`. This is a way of encoding the data more efficiently, which is broadly also how compression algorithms work. 
+Under the hood, the different values of the categorical feature are encoded into a dictionary, and the actual series is then indexed with the values of the categories. Therefore operations on categorical variables are similar to operations with integers -- or even faster since they are encoded as `int8` instead of the default `int32`. This is a way of encoding the data more efficiently, which is broadly also how compression algorithms work.
 
 
 ```python
@@ -92,7 +91,7 @@ Under the hood, the different values of the categorical feature are encoded into
 
     195 µs ± 36.1 µs per loop (mean ± std. dev. of 10 runs, 1000 loops each)
     204 µs ± 12.8 µs per loop (mean ± std. dev. of 10 runs, 1000 loops each)
-    
+
 
 
 ```python
