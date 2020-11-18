@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kent Troutman"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Berlin"
   employer         :
@@ -265,6 +265,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-multiple-languages-plugin
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -273,6 +274,8 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+
+languages: ["sv", "en", "de", "fr"]
 
 # Archives
 #  Type
