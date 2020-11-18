@@ -17,15 +17,12 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Data Scientist
+* Deutsche Bundesbank, Nov 2018-present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Guest Researcher
+* Deutsches Institut für Wirtschaftsforschung (DIW), Sept 2016-Sept 2017
+
   
 Skills
 ======
