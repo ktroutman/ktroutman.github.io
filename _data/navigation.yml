@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
+  - title: "CV"
+    url: /CV/
   - title: "Machine Learning"
     url: /machine-learning/
   # - title: "About"
