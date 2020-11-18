@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "New Site"
+title                    : "K Troutman's Personal Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "K Troutman"
@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Kent Troutman"
   avatar           : "images/profile.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Frankfurt am Main"
+  #bio              : "I am an **amazing** person."
+  location         : "Berlin"
   email            :
   links:
     - label: "Email"
