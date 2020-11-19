@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kent Troutman"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Berlin"
   employer         :
