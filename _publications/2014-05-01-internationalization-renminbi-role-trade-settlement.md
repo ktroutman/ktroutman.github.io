@@ -12,4 +12,4 @@ The renminbi is not yet an international currency that could challenge the posit
 
 [Download paper here](https://www.piie.com/sites/default/files/publications/pb/pb14-15.pdf)
 
-Recommended citation: Gagnon, Joseph and Troutman, Kent. (2014). &quot;Internationalization of the Renminbi: The Role of Trade Settlement.&quot; <i>PIIE Policy Brief Series</i>. Pb14-15.
+Recommended citation: Gagnon, Joseph and Troutman, Kent. (2014). "Internationalization of the Renminbi: The Role of Trade Settlement" <i>PIIE Policy Brief Series</i>. Pb14-15.
