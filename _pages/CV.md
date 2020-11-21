@@ -11,19 +11,41 @@ redirect_from:
 
 Education
 ======
-* Master of Public Affairs, Economics, Princeton University, 2018
-* Bachelor of Science, Finance, Drexel University, 2010
-* Associate of Arts, Community College of Philadelphia, 2007
+* **Master of Public Affairs**, Economics, *Princeton University*
+** Princeton, USA
+** Graduated 2018
+
+* **Bachelor of Science**, Finance, *Drexel University*
+** Philadelphia, USA
+** Graduated 2010
+
+* **Associate of Arts**, *Community College of Philadelphia*
+** Philadelphia, USA
+** Graduated 2007
 
 Work experience
 ======
-* Data Scientist
-* Deutsche Bundesbank, Nov 2018-present
+* **Data Scientist**, *Deutsche Bundesbank*, 
+** Frankfurt am Main, DEU
+** Nov 2018 - present
 
-* Guest Researcher
-* Deutsches Institut für Wirtschaftsforschung (DIW), Sept 2016-Sept 2017
+* **Guest Researcher**, *Deutsches Institut für Wirtschaftsforschung (DIW)*
+** Berlin, DEU
+** Sept 2016 - Sept 2017
 
-  
+* **Consultant**, *Organisation for Economics Cooperation & Development (OECD)*
+** Paris, FRA
+** May 2016 - Jan 2017
+
+* **Research Analyst**, *Peterson Institute for International Economics*
+** Washington DC, USA
+** Aug 2013 - July 2015
+
+* **Financial Analyst**, *Goldman Sachs & Co*
+** New York, USA
+** June 2011 - July 2013
+
+
 Skills
 ======
 * Skill 1
