@@ -6,7 +6,7 @@ excerpt: 'Im Zentrum der Diskussion über eine Integration von Geflüchteten ste
 date: 2018-10-17
 venue: 'DIW Wochenbericht'
 paperurl: 'https://www.diw.de/documents/publikationen/73/diw_01.c.602028.de/18-42.pdf'
-citation: 'DIW Wochenbericht 42 / 2018, S. 919-928, Marvin Bürmann, Peter Haan, Martin Kroh, Kent Troutman'
+citation: 'Marvin Bürmann, Peter Haan, Martin Kroh, Kent Troutman (2018) &quot;Beschäftigung und Bildungsinvestitionen von Geflüchteten in Deutschland &quot;<i>DIW Wochenbericht</i> S. 919-928'
 ---
 This paper was an extension of an earlier working paper, investigating the education investment and employment intentions of newly-arrived refugees in Germany, using the newly collected SOEP Refugee Panel. My research was funded by the Humbolt Foundation's Bundeskanzler Stipendium.
 
