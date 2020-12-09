@@ -11,14 +11,11 @@ redirect_from:
 
 Education
 ======
-* **Master of Public Affairs**, Economics, *Princeton University*
-  * Princeton, USA
+* **Master of Public Affairs**, Economics, *Princeton University*, Princeton, USA
 
-* **Bachelor of Science**, Finance, *Drexel University*
-  * Philadelphia, USA
+* **Bachelor of Science**, Finance, *Drexel University*, Philadelphia, USA
 
-* **Associate of Arts**, *Community College of Philadelphia*
-  * Philadelphia, USA
+* **Associate of Arts**, *Community College of Philadelphia*, Philadelphia, USA
 
 Work experience
 ======
@@ -43,33 +40,12 @@ Work experience
   * June 2011 - July 2013
 
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-#Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+    
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Contributor to [pandera](https://pandera.readthedocs.io/en/stable/index.html)
